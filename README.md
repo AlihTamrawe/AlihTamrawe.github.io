@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ali Tamrawe
 #### I am Junior developer, looking for new adventure and a new challenge to solve  
-![I am Junior developer, looking for new adventure and a new challenge to solve  ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Junior developer, looking for new adventure and a new challenge to solve  ](/assets/imgs/header.jpgheader.png)
 
 I made a lot of project and practice to get the ultimate benefit , i looking for the best experience that will open to me the hidden gate to be expert.  
 
